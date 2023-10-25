@@ -117,5 +117,4 @@ void menu(){
     cout<<"16. Caminos posibles dentro de una malla"<<endl;
     cout<<"17. Numeros amigables"<<endl;
     cout<<"18. Permutaciones lexicograficas"<<endl;
-
 }
